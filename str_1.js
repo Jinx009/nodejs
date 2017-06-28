@@ -7,6 +7,7 @@ function Person() {
     this.color = 'red';
     this.toString = function() {
         return this.name;
+        return this.color;
     };
 }
 var obj = new Person();
