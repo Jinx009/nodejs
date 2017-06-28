@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="690f3224-c138-45f3-acf1-33bc43a1a015" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extents_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/str_1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nodejs.iws" />
@@ -24,18 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="func_2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/func_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="n#!!doc;n#execute#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="func_3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/func_3.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,11 +120,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extents_1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extents_1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extents_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#38#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="str_1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/str_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
@@ -184,6 +184,7 @@
         <option value="$PROJECT_DIR$/ele_2.js" />
         <option value="$PROJECT_DIR$/ele_3.js" />
         <option value="$PROJECT_DIR$/extents_1.js" />
+        <option value="$PROJECT_DIR$/str_1.js" />
       </list>
     </option>
   </component>
@@ -273,10 +274,7 @@
       <recent name="$PROJECT_DIR$/router" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.extents_1.js">
-    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/router">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.str_1.js">
     <configuration default="false" name="ele_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ele_1.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -287,6 +285,9 @@
       <method />
     </configuration>
     <configuration default="false" name="extents_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="extents_1.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="str_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="str_1.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -337,19 +338,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.ele_1.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.ele_2.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ele_3.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.extents_1.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ele_1.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.ele_2.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.ele_3.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.extents_1.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.str_1.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.extents_1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ele_3.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.ele_2.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.ele_1.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.index.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.str_1.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.extents_1.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ele_3.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.ele_2.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ele_1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -363,16 +364,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498636483600</updated>
-      <workItem from="1498636485461" duration="2407000" />
+      <workItem from="1498636485461" duration="3167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="3167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="838" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -656,8 +657,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extents_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
