@@ -1,0 +1,8 @@
+/**
+ * Created by jinx on 6/28/17.
+ */
+function route(pathname) {
+    console.log("About to route a request for " + pathname);
+}
+
+exports.route = route;
