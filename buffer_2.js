@@ -3,5 +3,4 @@
  */
 var buf = new Buffer('www.qq.com');
 var json = buf.toJSON(buf);
-
 console.log(json);
