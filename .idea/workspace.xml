@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="690f3224-c138-45f3-acf1-33bc43a1a015" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_12_master.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_12_sub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/shell_server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="nodejs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,32 +23,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shell_9.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_9.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#37#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shell_10.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_10.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#37#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="shell_11.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_11.js">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_11.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -79,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="shell_12_sub.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_12_sub.js">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_12_sub.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
@@ -91,7 +48,7 @@
         </entry>
       </file>
       <file leaf-file-name="shell_12_master.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_12_master.js">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_12_master.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -103,7 +60,7 @@
         </entry>
       </file>
       <file leaf-file-name="shell_server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_server.js">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
@@ -114,8 +71,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shell_13.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example/shell_13.js">
+      <file leaf-file-name="shell_13.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_13.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
@@ -126,8 +83,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="shell_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#37#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="err.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/err.log">
+        <entry file="file://$PROJECT_DIR$/child_process_/err.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -137,7 +116,7 @@
         </entry>
       </file>
       <file leaf-file-name="out.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/out.log">
+        <entry file="file://$PROJECT_DIR$/child_process_/out.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -147,7 +126,7 @@
         </entry>
       </file>
       <file leaf-file-name="shell_client.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/shell_client.js">
+        <entry file="file://$PROJECT_DIR$/child_process_/shell_client.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -174,8 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/http_3.js" />
-        <option value="$PROJECT_DIR$/dns_1.js" />
         <option value="$PROJECT_DIR$/web_1.js" />
         <option value="$PROJECT_DIR$/web_2.js" />
         <option value="$PROJECT_DIR$/express/main.js" />
@@ -225,6 +202,8 @@
         <option value="$PROJECT_DIR$/example/shell_server.js" />
         <option value="$PROJECT_DIR$/example/shell_client.js" />
         <option value="$PROJECT_DIR$/example/shell_13.js" />
+        <option value="$PROJECT_DIR$/child_process_/shell_2.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -342,7 +321,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="child_process_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,19 +350,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.shell_13.js">
-    <configuration default="false" name="shell_11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shell_11.js" working-dir="$PROJECT_DIR$/example">
+    <configuration default="false" name="shell_11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/child_process_/shell_11.js" working-dir="$PROJECT_DIR$/child_process_">
       <method />
     </configuration>
-    <configuration default="false" name="shell_12_master.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shell_12_master.js" working-dir="$PROJECT_DIR$/example">
+    <configuration default="false" name="shell_12_master.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/child_process_/shell_12_master.js" working-dir="$PROJECT_DIR$/child_process_">
       <method />
     </configuration>
-    <configuration default="false" name="shell_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shell_server.js" working-dir="$PROJECT_DIR$/example">
+    <configuration default="false" name="shell_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/child_process_/shell_server.js" working-dir="$PROJECT_DIR$/child_process_">
       <method />
     </configuration>
-    <configuration default="false" name="shell_client.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shell_client.js" working-dir="$PROJECT_DIR$/example">
+    <configuration default="false" name="shell_client.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/child_process_/shell_client.js" working-dir="$PROJECT_DIR$/child_process_">
       <method />
     </configuration>
-    <configuration default="false" name="shell_13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shell_13.js" working-dir="$PROJECT_DIR$/example">
+    <configuration default="false" name="shell_13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/child_process_/shell_13.js" working-dir="$PROJECT_DIR$/child_process_">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -472,16 +451,16 @@
       <workItem from="1498636485461" duration="8706000" />
       <workItem from="1498698945780" duration="366000" />
       <workItem from="1499044544844" duration="8593000" />
-      <workItem from="1499146810122" duration="4606000" />
+      <workItem from="1499146810122" duration="4954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22271000" />
+    <option name="totallyTimeSpent" value="22619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="838" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -490,7 +469,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45416668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -517,13 +496,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/express/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/express/index_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -753,7 +725,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_4.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -763,17 +735,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_3.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
@@ -783,7 +745,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_5.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -793,7 +755,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_7.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -803,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_6.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_6.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -813,7 +775,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_8.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_8.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
@@ -823,7 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_1.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -831,7 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_9.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
@@ -841,7 +803,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_10.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_10.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
@@ -851,7 +813,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_11.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_11.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -861,7 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_12_sub.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_12_sub.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
@@ -879,7 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_12_master.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_12_master.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -889,7 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_client.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -899,7 +861,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_server.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
@@ -909,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/err.out">
+    <entry file="file://$PROJECT_DIR$/child_process_/err.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -917,7 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/out.log">
+    <entry file="file://$PROJECT_DIR$/child_process_/out.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -925,7 +887,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/err.log">
+    <entry file="file://$PROJECT_DIR$/child_process_/err.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -933,13 +895,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/shell_13.js">
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/child_process_/shell_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
