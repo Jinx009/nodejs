@@ -11,7 +11,7 @@ const defaults = {
     env: null
 };
 
-exec('cat *.js /Users/jinx/Documents/jobs/nodejs/example/shell_1.js | wc -l', defaults, (error, stdout, stderr) => {
+exec('cat *.js /Users/jinx/Documents/jobs/nodejs/child_process_/shell_1.js | wc -l', defaults, (error, stdout, stderr) => {
     if (error) {
         console.error(`exec error: ${error}`);
         return;
